@@ -6,5 +6,5 @@ screen recording all his videos, trimming audio, and installing
 the files into the app). The app also contains a biography and 
 webviews to his website/social media. - Filayyyy
 
-[![Watch the video](https://bitbucket.org/harrisjib216/filayyyy/src/master/supporting_files/opener.png)](https://youtu.be/bykwirDNLb0)
+[![Watch the video](https://bitbucket.org/harrisjib216/filayyyy/raw/a10fa8cdb5989431bbbc4cfec320cb8c327a43b2/supporting_files/opener.png)](https://youtu.be/bykwirDNLb0)
 ---
